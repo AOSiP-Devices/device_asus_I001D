@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_I001D.mk
+	$(LOCAL_DIR)/aosip_I001D.mk
