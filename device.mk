@@ -168,10 +168,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     lineage.touch@1.0-service.asus_msmnile
 
-# Trust HAL
-PRODUCT_PACKAGES += \
-    lineage.trust@1.0-service
-
 # Update engine
 PRODUCT_PACKAGES += \
     update_engine \
