@@ -108,7 +108,7 @@ product/lib64/lib-imsvtutils.so
 product/lib64/vendor.qti.imsrtpservice@2.0.so
 product/lib64/vendor.qti.imsrtpservice@2.1.so
 # Smali edit: https://gist.github.com/luca020400/b0152c9b77e55f50eee0513cf666f61c
--product/priv-app/ims/ims.apk|6bea321529bbd6afdcc1e8a7a2b59253dd883b50
+-product/priv-app/ims/ims.apk|75339641ee9e8d1370e59f2dfdf198f040cecebd
 
 # HotwordEnrollment
 -product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk
